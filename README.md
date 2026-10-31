@@ -1,9 +1,13 @@
-# National Finals After 7th Grade in Varna, Bulgaria (NVO Analysis)
+# Varna Schools Performance Analysis (8-Year Study)
 
 ## 📌 Project Overview
 This project performs an analytical investigation into the National External Assessment (NVO) exam results for 7th-grade students across schools in Varna, Bulgaria over an 8-year historical period. 
 
 The primary goal is to analyze academic performance trends, compare subjects (Mathematics vs. Bulgarian Language & Literature - BEL), evaluate school stability over time, and apply fundamental mathematical and data analysis concepts using Python.
+
+## 🧹 Data Preparation & Cleaning
+- **Timeframe Consistency:** To ensure a fair and objective long-term comparison, institutions (primarily private schools) with missing data or sporadic attendance over the last 5-6 years were filtered out from the dataset.
+- **Standardization:** School names were manually cleaned and standardized directly in the source files to ensure clean and readable labels for data visualization and reporting.
 
 ## 🎯 Key Questions & Objectives
 1. **School Comparison:** Which top 15 schools in Varna perform consistently higher on 7th-grade national exams?
